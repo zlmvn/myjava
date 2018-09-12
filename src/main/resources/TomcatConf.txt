@@ -1,0 +1,2 @@
+F:\Users\smy\workspace-eclipse\MyWeb\bin
+MyWeb.MyServlet
